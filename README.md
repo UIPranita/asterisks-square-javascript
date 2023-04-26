@@ -1,1 +1,1 @@
-# asterisks-square-javascript
+# Asterisks-square-JavaScript
